@@ -1,5 +1,7 @@
 # Data Driven Product Recommendation System
 
+As a team member, I contributed to project documentation, research, testing, and presentation activities. I supported the team in preparing technical reports, reviewing project requirements, and validating system outputs throughout the development lifecycle.
+
 ## Overview
 
 Data Driven Product Recommendation System (DDPRS) is an AI-powered recommendation platform designed to provide personalized product suggestions using Neural Collaborative Filtering (NCF).
