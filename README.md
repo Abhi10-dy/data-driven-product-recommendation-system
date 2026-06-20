@@ -50,3 +50,9 @@ Academic Team Project
 ## Academic Year
 
 2025-2026
+
+---
+
+# Data Driven Product Recommendation System
+
+AI-powered recommendation platform designed to solve the cold-start problem using Neural Collaborative Filtering (NCF), FastAPI, and TensorFlow.
